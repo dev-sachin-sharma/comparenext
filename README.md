@@ -1,0 +1,2 @@
+# comparenext
+Nextjs project
